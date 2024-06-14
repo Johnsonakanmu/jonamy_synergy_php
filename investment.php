@@ -138,59 +138,9 @@
                         </div>
                       </div>
                     </div>
-                    <h3>Analysis Features</h3>
-                    <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut
-                      enimad minim veniam quis nostrud exercitation ullamco laboris.</p>
+
                   </div>
                   <div class="blocks-outer row clearfix">
-
-                    <!--Services Block Five-->
-                    <div class="services-block-five col-lg-6 col-md-6 col-sm-12">
-                      <div class="block-inner">
-                        <div class="icon-box">
-                          <span class="icon flaticon-path"></span>
-                        </div>
-                        <h4><a href="#">Planning Strategies</a></h4>
-                        <div class="text">Acepteur sintas haecat sed cupidatat non dui proident sunt culpa qui officia
-                          sed ipsum tempor eserunt.</div>
-                      </div>
-                    </div>
-
-                    <!--Services Block Five-->
-                    <div class="services-block-five col-lg-6 col-md-6 col-sm-12">
-                      <div class="block-inner">
-                        <div class="icon-box">
-                          <span class="icon flaticon-line-graph"></span>
-                        </div>
-                        <h4><a href="#">Build The Next Level</a></h4>
-                        <div class="text">Acepteur sintas haecat sed cupidatat non dui proident sunt culpa qui officia
-                          sed ipsum tempor eserunt.</div>
-                      </div>
-                    </div>
-
-                    <!--Services Block Five-->
-                    <div class="services-block-five col-lg-6 col-md-6 col-sm-12">
-                      <div class="block-inner">
-                        <div class="icon-box">
-                          <span class="icon flaticon-speaker"></span>
-                        </div>
-                        <h4><a href="#">Successful Marketing</a></h4>
-                        <div class="text">Acepteur sintas haecat sed cupidatat non dui proident sunt culpa qui officia
-                          sed ipsum tempor eserunt.</div>
-                      </div>
-                    </div>
-
-                    <!--Services Block Five-->
-                    <div class="services-block-five col-lg-6 col-md-6 col-sm-12">
-                      <div class="block-inner">
-                        <div class="icon-box">
-                          <span class="icon flaticon-handshake"></span>
-                        </div>
-                        <h4><a href="#">Always Better Decisions</a></h4>
-                        <div class="text">Acepteur sintas haecat sed cupidatat non dui proident sunt culpa qui officia
-                          sed ipsum tempor eserunt.</div>
-                      </div>
-                    </div>
 
                   </div>
                 </div>
@@ -218,7 +168,8 @@
           <!--Right Column-->
           <div class="right-column">
             <div class="inner-column">
-              <a href="contact.php#consultation" class="theme-btn btn-style-four">Book a Consultation</a>
+              <a href="contact.php#consultation" class="theme-btn btn-style-four">Book a
+                Consultation</a>
             </div>
           </div>
 

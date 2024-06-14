@@ -35,7 +35,7 @@
     <!--End Page Title-->
 
     <!--Portfolio Single Section-->
-    <?php include 'investm_uganda.php' ?>
+
 
     <!--End Portfolio Single Section-->
 

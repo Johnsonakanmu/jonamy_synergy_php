@@ -31,9 +31,9 @@
           <div class=" auto-container">
 
             <div class=" content">
-              <h3>Unlocking Africa's Wealth, One Investment at a Time</h3>
+              <h3 style="font-size: 30px">Unlocking Africa's Wealth, One Investment at a Time</h3>
               <h2>Mining operations</h2>
-              <div class="text">We are working with thousands of business companies around <br>
+              <div class="text" style="font-size: 30px">We are working with thousands of business companies around <br>
                 the world & delivering
                 ideas for your business</div>
               <div class="link-box">
@@ -46,14 +46,14 @@
         <div class="slide" style="background-image:url(images/stones/stone_2.jpg)">
           <div class=" auto-container">
             <div class="content">
-              <h3 class="style-two">Unlocking Africa's Wealth, One Investment at a Time</h3>
+              <h3 class="style-two" style="font-size: 30px">Unlocking Africa's Wealth, One Investment at a Time</h3>
               <h2>Precious stones and minerals</h2>
-              <div class="text">We are working with thousands of business companies around <br>
+              <div class="text" style="font-size: 30px">We are working with thousands of business companies around <br>
                 the world & delivering
                 ideas for your business</div>
               <div class="link-box">
-                <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
-                  class="theme-btn btn-style-three">Our Servics</a>
+                <!-- <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
+                  class="theme-btn btn-style-three">Our Servics</a> -->
               </div>
             </div>
           </div>
@@ -63,13 +63,14 @@
           style="background-image:url(images/stones/stone_7.jpg); background-size:cover;background-repeat:no-repeat;">
           <div class=" auto-container">
             <div class="content">
-              <h3 class="style-two">Unlocking Africa's Wealth, One Investment at a Time</h3>
+              <h3 class="style-two" style="font-size: 30px">Unlocking Africa's Wealth, One Investment at a Time</h3>
               <h2>Investment projects in Africa</h2>
-              <div class="text">We are working with thousands of business companies around <br> the world & delivering
+              <div class="text" style="font-size: 30px">We are working with thousands of business companies around <br>
+                the world & delivering
                 ideas for your business</div>
               <div class="link-box">
-                <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
-                  class="theme-btn btn-style-three">Our Servics</a>
+                <!-- <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
+                  class="theme-btn btn-style-three">Our Servics</a> -->
               </div>
             </div>
           </div>
@@ -92,7 +93,7 @@
                 <div class="icon-box">
                   <span class="icon flaticon-analysis"></span>
                 </div>
-                <div class="text"> Decades of experience in mineral trading and investment facilitation.</div>
+                <div class="text" style="font-size: 18px"> Decades of experience in mineral trading and investment facilitation.</div>
 
               </div>
             </div>
@@ -104,7 +105,7 @@
                 <div class="icon-box">
                   <span class="icon flaticon-sports-and-competition"></span>
                 </div>
-                <div class="text">Well-connected with major governments across Africa.</div>
+                <div class="text" style="font-size: 18px">Well-connected with major governments across Africa.</div>
 
               </div>
             </div>
@@ -116,7 +117,7 @@
                 <div class="icon-box">
                   <span class="icon flaticon-graph"></span>
                 </div>
-                <div class="text">From legal compliance to business permits and tax exemptions</div>
+                <div class="text" style="font-size: 18px">From legal compliance to business permits and tax exemptions</div>
 
               </div>
             </div>
@@ -138,14 +139,17 @@
               <!--Sec Title-->
               <div class="sec-title">
                 <h2>About Jonamjo Synergy Nigeria Ltd</h2>
-                <div class="title-text">Unlocking Africa's Wealth, One Investment at a Time</div>
+                <div class="title-text" style="font-size: 20px;">Unlocking Africa's Wealth, One Investment at a Time
+                </div>
               </div>
-              <div class="text">Jonamjo Synergy Nigeria(RC: 1224339) is a
-                leading company licensed by the Federal Republic of Nigeria to purchase, trade in, and deal in
-                minerals
-                and precious stones. Our expertise extends to facilitating foreign direct investments across Africa,
-                ensuring successful and profitable ventures for our clients.</div>
-              <a href="#" class="theme-btn btn-style-five">Who We Are</a>
+              <div class="text" style="font-size: 19px; ">Jonamjo Synergy Nig Ltd (RC: 1224339) is a reputable firm of
+                consultants
+                specializing
+                in
+                Foreign Direct Investment in Africa, licensed by the Federal Republic of Nigeria. Our primary objective
+                is to assist foreign investors interested in setting up and conducting business in Africa by navigating
+                the often complex legal and regulatory framework.</div>
+              <a href="about.php" class="theme-btn btn-style-five">Read more</a>
             </div>
           </div>
 
@@ -187,8 +191,8 @@
               <!--Title Column-->
               <div class="title-box">
                 <div class="box-inner">
-                  <h2>Mission</h2>
-                  <div class="text">To function as an effective solution provider, giving my optimal best in a
+                  <h2>Mission <br> & Vision</h2>
+                  <div class="text" style="font-size: 18px">To function as an effective solution provider, giving my optimal best in a
                     challenging environment geared ultimately towards the attainment of set organizational goals</div>
                 </div>
               </div>
@@ -205,30 +209,24 @@
                     <!--Testimonial Block-->
                     <div class="testimonial-block">
                       <div class="inner-box">
-                        <div class="text">Ptate velit essle duis irue dolor repa enderitn doloreu fugiatla pariaturs
-                          Excepeur sint ocae cupdat proident suntin culpa officia deserunt olanim laborum perspiciat
-                          aute.</div>
-                        <div class="author">Thomas Neil : <span>President</span></div>
+                        <div class="text"> Enhance and modernize infrastructure across agriculture, manufacturing, and
+                          energy sectors to boost economic growth and sustainability.</div>
                       </div>
                     </div>
 
                     <!--Testimonial Block-->
                     <div class="testimonial-block">
                       <div class="inner-box">
-                        <div class="text">Ptate velit essle duis irue dolor repa enderitn doloreu fugiatla pariaturs
-                          Excepeur sint ocae cupdat proident suntin culpa officia deserunt olanim laborum perspiciat
-                          aute.</div>
-                        <div class="author">Thomas Neil : <span>President</span></div>
+                        <div class="text">Develop and expand critical transportation and hospitality facilities to
+                          improve connectivity and tourism.</div>
                       </div>
                     </div>
 
                     <!--Testimonial Block-->
                     <div class="testimonial-block">
                       <div class="inner-box">
-                        <div class="text">Ptate velit essle duis irue dolor repa enderitn doloreu fugiatla pariaturs
-                          Excepeur sint ocae cupdat proident suntin culpa officia deserunt olanim laborum perspiciat
-                          aute.</div>
-                        <div class="author">Thomas Neil : <span>President</span></div>
+                        <div class="text">Promote environmental sustainability through advanced waste recycling,
+                          resource management, and sustainable mining practices.</div>
                       </div>
                     </div>
 
@@ -251,7 +249,7 @@
         <!--Sec Title-->
         <div class="sec-title centered">
           <h2>What We Offers</h2>
-          <div class="title-text">Unlocking Africa's Wealth, One Investment at a Time</div>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
         </div>
 
         <div class="row clearfix">
@@ -264,9 +262,14 @@
               </div>
               <div class=" lower-content">
                 <h3><a href="about.php">Minerals & Precious Stones</a></h3>
-                <div class="text">Jonamjo Synergy Nigeria Ltd, licensed by Nigeria, trades in various minerals and
-                  precious stones. Based in Abuja, their offerings include Lithium, Gold, Rhodium, and Platinum among
-                  others. They operate from Suite D4 Halima Plaza, Balanga Crescent, Area 11, Garki.</div>
+                <div class="text">We offer a variety of minerals and precious stones including lithium, chalcopyrite,
+                  crushed gold stone and platinum. These minerals and stones
+                  are highly sought after for their various industrial and technological applications. For instance,
+                  lithium is crucial for battery production, while cobalt and nickel are essential in electronics and
+                  aerospace industries. Our precious stones like gold, palladium, and platinum are not only valued for
+                  their beauty and use in jewelry but also for their significant roles in financial markets and various
+                  high-tech industries.</div>
+                <a class="read-more" href="about.php"><span class="fa fa-angle-right"></span> Read
 
               </div>
             </div>
@@ -285,6 +288,7 @@
                   investment processes. Their services cover compliance, permits, tax exemptions, and technology
                   protection, guaranteeing secure and profitable investments for clients.
                 </div>
+                <a class="read-more" href="about.php"><span class="fa fa-angle-right"></span> Read
 
               </div>
             </div>
@@ -294,15 +298,17 @@
           <div class="offer-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="image">
-                <a href="about.php"><img src="images/resource/news-3.jpg" alt="" /></a>
+                <a href="foreign_invest.php#foreign"><img src="images/resource/news-3.jpg" alt="" /></a>
               </div>
               <div class="lower-content">
-                <h3><a href="about.php">Foreign Direct Investment (FDI)</a></h3>
+                <h3><a href="foreign_invest.php">AFRICA/FOREIGN DIRECT INVESTMENT 2020</a></h3>
                 <div class="text">
                   Seeking investors for Africa, utilizing government ties for favorable conditions. Key sectors:
                   Agriculture, Manufacturing, Infrastructure, Hospitality, Mining, and more. Various investment
                   structures available; expertise and funding required. Dedicated team ensures legal compliance and
                   profitable returns.</div>
+                <a class="read-more" href="foreign_invest.php"><span class="fa fa-angle-right"></span> Read
+                  more</a>
 
               </div>
             </div>
@@ -368,7 +374,7 @@
     <!--End Case Section-->
 
     <!--Testimonial Section-->
-    <section class="testimonial-section">
+    <section class="testimonial-section" style="margin-top: 55px;">
       <div class="auto-container">
         <!--Sec Title-->
         <div class="sec-title">
@@ -542,16 +548,13 @@
               <!--News Block-->
               <div class="news-block">
                 <div class="inner-box">
-                  <ul class="post-info">
-                    <li>SEPtember 23, 2018</li>
-                    <li>Consultant</li>
-                  </ul>
-                  <h3><a href="#">Consecter elit duied aiusmod tempor didunt labore dolory</a></h3>
+
+                  <h3><a href="#">Get the latest news and offers from Jonamjo Synergy Nig Ltd in your inbox.</a></h3>
                 </div>
               </div>
 
               <!--News Block-->
-              <div class="news-block">
+              <!-- <div class="news-block">
                 <div class="inner-box">
                   <ul class="post-info">
                     <li>august 25, 2018</li>
@@ -560,10 +563,10 @@
                   <h3><a href="#">Ipsum dolor sit amet adipisicing elit, dolore magns aliqua enim </a>
                   </h3>
                 </div>
-              </div>
+              </div> -->
 
               <!--News Block-->
-              <div class="news-block">
+              <!-- <div class="news-block">
                 <div class="inner-box">
                   <ul class="post-info">
                     <li>SEPtember 23, 2018</li>
@@ -572,7 +575,7 @@
                   <h3><a href="#">Sunt in culpa qui officia deserunt mollit animed kyest laborum</a>
                   </h3>
                 </div>
-              </div>
+              </div> -->
 
             </div>
           </div>
