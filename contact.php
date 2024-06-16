@@ -1,5 +1,8 @@
+<?php session_start(); ?>
+
 <!DOCTYPE html>
 <html>
+
 
 <head>
   <meta charset="utf-8">
@@ -92,7 +95,8 @@
           <div class="form-column col-lg-6 col-md-12 col-sm-12">
             <div class="inner-column">
               <h2>Send a Message</h2>
-              <div id="consultation" class="title">We are working with thousands of business companies around the globe
+              <div id="consultation" class="title">We are working with thousands of business companies around the
+                globe
                 &
                 delivering
                 ideas
@@ -123,7 +127,7 @@
                   </div>
 
                   <div class="form-group">
-                    <button class="theme-btn message-btn" type="submit" name="submit-form">send message</button>
+                    <button class="theme-btn message-btn" type="submit" name="submitContact">send message</button>
                   </div>
 
                 </form>
@@ -149,6 +153,8 @@
   <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span>
   </div>
 
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
   <script src="js/jquery.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
@@ -160,11 +166,19 @@
   <script src="js/wow.js"></script>
   <script src="js/jquery-ui.js"></script>
   <script src="js/script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script>
+  var messageText = "<?= $_SESSION['status'] ?? ''; ?>";
+  if (messageText != '') {
+    Swal.fire({
+      title: "Thank you",
+      text: messageText,
+      icon: "successs"
+    });
+    <?php unset($_SESSION['status']) ;?>
+  }
+  </script>
 
-  <!--Google Map APi Key-->
-  <script src="http://maps.google.com/maps/api/js?key=AIzaSyB2uu6KHbLc_y7fyAVA4dpqSVM4w9ZnnUw"></script>
-  <script src="js/map-script.js"></script>
-  <!--End Google Map APi-->
 
 </body>
 
