@@ -29,7 +29,7 @@
       <div class=" auto-container">
         <h1>Get In Touch</h1>
         <ul class="page-breadcrumb">
-          <li><a href="index.php">home</a></li>
+          <li><a href="index">home</a></li>
           <li>Contact us</li>
         </ul>
       </div>
@@ -104,7 +104,7 @@
               <!-- Contact Form -->
               <div class="contact-form">
                 <!--Comment Form-->
-                <form method="post" action="sendemail.php" id="contact-form">
+                <form method="post" action="sendemail" id="contact-form">
 
                   <div class="form-group">
                     <input type="text" name="username" placeholder="Your Name" required>

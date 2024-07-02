@@ -57,7 +57,7 @@
           <!--Strategy 1 Block-->
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-              <h3><a href="african_investm.php">Agro-processing</a></h3>
+              <h3><a href="african_investm">Agro-processing</a></h3>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Establishment of an integrated agricultural produce, marketing and value-addition park
                 in Uganda</div>
@@ -82,7 +82,7 @@
           <!--Strategy 2 Block-->
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-              <h3><a href="african_investm.php">Information Communication Technology (ICT)</a></h3>
+              <h3><a href="african_investm">Information Communication Technology (ICT)</a></h3>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text"> Government Integrated Data Centre
               </div>
@@ -111,7 +111,7 @@
           <!--Strategy 3 Block-->
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-              <h3><a href="african_investm.php">Building and Construction</a></h3>
+              <h3><a href="african_investm">Building and Construction</a></h3>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Construction of Low-Cost Housing for Bugembe Public Servants</div>
               <h5 style="margin-top: 10px; color: black">Project Location</h5>
@@ -147,7 +147,7 @@
           <!--Strategy 4 Block-->
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-              <h3><a href="african_investm.php">Oil and Gas (Oil distribution)</a></h3>
+              <h3><a href="african_investm">Oil and Gas (Oil distribution)</a></h3>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Pipeline from Hoima oil fields to storage facilities in Kampala and Jinja</div>
               <h5 style="margin-top: 10px; color: black">Project Location</h5>
@@ -176,23 +176,6 @@
             </div>
           </div>
 
-          <!--Strategy 5 Block-->
-          <!-- <div class="strategy-block col-lg-6 col-md-6 col-sm-12" style="position: relative;">
-            <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-              <h3><a href="african_investm.php">Transport (Aviation)</a></h3>
-              <h5 style="margin-top: 10px; color: black">Title of Project</h5>
-              <div class="text">Upgrade of Priority Air Fields in the Tourism and Oil producing areas to Airports</div>
-              <h5 style="margin-top: 10px; color: black">Project Location:</h5>
-              <div class="text">6 Upcountry Locations</div>
-              <h5 style="margin-top: 10px; color: black">Project Description:</h5>
-              <div class="text">The airport upgrade projects in Uganda include Kasese Airport ($84M) for international
-                status, Gulu Airport ($162M) for international status and terminal upgrades, Kisoro Airport ($20M) for
-                tourism enhancements, Kabale Airport ($192M) for the oil industry, Kidepo Airstrip ($10M) for tourism,
-                and Arua Airport ($160M) for regional benefits with runway paving.</div>
-              <h5 style="margin-top: 10px; color: black">Project Cost:</h5>
-              <div class="text">US $160 million</div>
-            </div>
-          </div> -->
 
         </div>
       </div>
@@ -239,7 +222,7 @@
               </div>
             </div>
             <div class="btn-box">
-              <a href="about.php" class="theme-btn btn-style-five">View Our Programs</a>
+              <a href="about" class="theme-btn btn-style-five">View Our Programs</a>
             </div>
 
           </div>

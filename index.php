@@ -89,7 +89,7 @@
             <!--Services Block-->
             <div class="services-block col-lg-4 col-md-6 col-sm-12">
               <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <h3><a href="bindex.php">Expertise and Experience</a></h3>
+                <h3><a href="bindex">Expertise and Experience</a></h3>
                 <div class="icon-box">
                   <span class="icon flaticon-analysis"></span>
                 </div>
@@ -149,7 +149,7 @@
                 Foreign Direct Investment in Africa, licensed by the Federal Republic of Nigeria. Our primary objective
                 is to assist foreign investors interested in setting up and conducting business in Africa by navigating
                 the often complex legal and regulatory framework.</div>
-              <a href="about.php" class="theme-btn btn-style-five">Read more</a>
+              <a href="about" class="theme-btn btn-style-five">Read more</a>
             </div>
           </div>
 
@@ -258,10 +258,10 @@
           <div class="offer-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="image">
-                <a href="about.php"><img src="images/stones/g_2.jpg" height="400px" /></a>
+                <a href="about"><img src="images/stones/g_2.jpg" height="400px" /></a>
               </div>
               <div class=" lower-content">
-                <h3><a href="about.php">Minerals & Precious Stones</a></h3>
+                <h3><a href="about">Minerals & Precious Stones</a></h3>
                 <div class="text">We offer a variety of minerals and precious stones including lithium, chalcopyrite,
                   crushed gold stone and platinum. These minerals and stones
                   are highly sought after for their various industrial and technological applications. For instance,
@@ -269,7 +269,7 @@
                   aerospace industries. Our precious stones like gold, palladium, and platinum are not only valued for
                   their beauty and use in jewelry but also for their significant roles in financial markets and various
                   high-tech industries.</div>
-                <a class="read-more" href="about.php"><span class="fa fa-angle-right"></span> Read
+                <a class="read-more" href="about"><span class="fa fa-angle-right"></span> Read
 
               </div>
             </div>
@@ -279,16 +279,16 @@
           <div class="offer-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="image">
-                <a href="about.php"><img src="images/stones/th_2.jpg" alt="" /></a>
+                <a href="about"><img src="images/stones/th_2.jpg" alt="" /></a>
               </div>
               <div class="lower-content">
-                <h3><a href="about.php">Research Managment</a></h3>
+                <h3><a href="about">Research Managment</a></h3>
                 <div class="text">Jonamjo Synergy Nig Ltd facilitates FDI in Africa, guiding investors through legal and
                   regulatory hurdles. With deep governmental connections and policy expertise, they ensure smooth
                   investment processes. Their services cover compliance, permits, tax exemptions, and technology
                   protection, guaranteeing secure and profitable investments for clients.
                 </div>
-                <a class="read-more" href="about.php"><span class="fa fa-angle-right"></span> Read
+                <a class="read-more" href="about"><span class="fa fa-angle-right"></span> Read
 
               </div>
             </div>
@@ -301,13 +301,13 @@
                 <a href="foreign_invest.php#foreign"><img src="images/resource/news-3.jpg" alt="" /></a>
               </div>
               <div class="lower-content">
-                <h3><a href="foreign_invest.php">AFRICA/FOREIGN DIRECT INVESTMENT 2020</a></h3>
+                <h3><a href="foreign_invest">AFRICA/FOREIGN DIRECT INVESTMENT 2020</a></h3>
                 <div class="text">
                   Seeking investors for Africa, utilizing government ties for favorable conditions. Key sectors:
                   Agriculture, Manufacturing, Infrastructure, Hospitality, Mining, and more. Various investment
                   structures available; expertise and funding required. Dedicated team ensures legal compliance and
                   profitable returns.</div>
-                <a class="read-more" href="foreign_invest.php"><span class="fa fa-angle-right"></span> Read
+                <a class="read-more" href="foreign_invest"><span class="fa fa-angle-right"></span> Read
                   more</a>
 
               </div>

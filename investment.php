@@ -26,7 +26,7 @@
       <div class="auto-container">
         <h1>Investment Planning</h1>
         <ul class="page-breadcrumb">
-          <li><a href="index.php">home</a></li>
+          <li><a href="index">home</a></li>
           <!-- <li><a href="services-one.html">Our Services</a></li> -->
           <li>Investment Planning</li>
         </ul>
@@ -46,29 +46,29 @@
               <!--Blog Category Widget-->
               <div class="sidebar-widget sidebar-blog-category">
                 <ul class="blog-cat">
-                  <li class="active"><a href="investment.php">Agriculture & Agro-Allied Industry</a></li>
-                  <li><a href="investment.php">Manufacturing</a></li>
-                  <li><a href="investment.php">Construction & Operation of Oil Refineries, Oil Block Concessions</a>
+                  <li class="active"><a href="investment">Agriculture & Agro-Allied Industry</a></li>
+                  <li><a href="investment">Manufacturing</a></li>
+                  <li><a href="investment">Construction & Operation of Oil Refineries, Oil Block Concessions</a>
                   </li>
-                  <li><a href="investment.php">Road Construction, Operation & Maintenance</a></li>
-                  <li><a href="investment.php">Seaport Construction & Operationirport Construction & Operation</a>
+                  <li><a href="investment">Road Construction, Operation & Maintenance</a></li>
+                  <li><a href="investment">Seaport Construction & Operationirport Construction & Operation</a>
                   </li>
-                  <li><a href="investment.php">Waste Recycling Plant Construction & Operation
+                  <li><a href="investment">Waste Recycling Plant Construction & Operation
                     </a></li>
-                  <li><a href="investment.php">Development of 3, 4 & 5 Star Hotels</a></li>
-                  <li><a href="investment.php">Hospital Construction & Operation
+                  <li><a href="investment">Development of 3, 4 & 5 Star Hotels</a></li>
+                  <li><a href="investment">Hospital Construction & Operation
                     </a></li>
-                  <li><a href="investment.php">Land Reclamation & Stockpiling
+                  <li><a href="investment">Land Reclamation & Stockpiling
                     </a></li>
-                  <li><a href="investment.php">Solid Minerals Mining</a></li>
-                  <li><a href="investment.php">Dredging</a></li>
-                  <li><a href="investment.php">Tank Farm Operation
+                  <li><a href="investment">Solid Minerals Mining</a></li>
+                  <li><a href="investment">Dredging</a></li>
+                  <li><a href="investment">Tank Farm Operation
                     </a></li>
-                  <li><a href="investment.php">Bridge/Tunnel Construction & Operation</a></li>
-                  <li><a href="investment.php">Palm oil plantation
+                  <li><a href="investment">Bridge/Tunnel Construction & Operation</a></li>
+                  <li><a href="investment">Palm oil plantation
                     </a></li>
-                  <li><a href="investment.php">Oil & Gas</a></li>
-                  <li><a href="investment.php">Consultancy
+                  <li><a href="investment">Oil & Gas</a></li>
+                  <li><a href="investment">Consultancy
                     </a></li>
 
                 </ul>

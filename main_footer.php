@@ -12,7 +12,7 @@
             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
               <div class="footer-widget logo-widget">
                 <div class="logo">
-                  <a href="index.php"><img src="images/footer_logo_3.jpg" alt="" /></a>
+                  <a href="index"><img src="images/footer_logo_3.jpg" alt="" /></a>
                 </div>
                 <div class="text">NWAUKOR ONOCHIE JUDE
                   No 20 A S BADEH Street,NAF Valley Estate Asokoro Abuja FCT
@@ -40,12 +40,12 @@
               <div class="footer-widget links-widget">
                 <h2>Quick Links</h2>
                 <ul class="footer-link">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">Our Projects</a></li>
-                  <li><a href="#">Latest News</a></li>
+                  <li><a href="index">Home</a></li>
+                  <li><a href="about">About US</a></li>
+                  <li><a href="portfolio">Portfolio</a></li>
+                  <li><a href="investment">Investments</a></li>
                   <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="contact">Contact Us</a></li>
                 </ul>
               </div>
             </div>
@@ -95,7 +95,7 @@
                 <h2>Our Newsletter</h2>
                 <div class="text">Get in your inbox the latest News and Offers from Jonamjo Synergy</div>
                 <div class="newsletter-form">
-                  <form method="post" action="contact.php">
+                  <form method="post" action="contact">
                     <div class="form-group">
                       <input type="email" name="email" value="" placeholder="Email address" required="">
                     </div>

@@ -26,7 +26,7 @@
       <div class="auto-container">
         <h1>FOREIGN DIRECT INVESTMENT</h1>
         <ul class="page-breadcrumb">
-          <li><a href="index.php">home</a></li>
+          <li><a href="index">home</a></li>
           <li>Foreign Investment</li>
         </ul>
       </div>
@@ -87,7 +87,7 @@
                 <div class="clearfix">
 
                 </div>
-                <h2><a href="foreign_investm.php" style="color:#443986">Conditions for Investment</a></h2>
+                <h2><a href="foreign_investm" style="color:#443986">Conditions for Investment</a></h2>
                 <div class="text" style="font-size: 18px">During their operations, investors must provide funding,
                   expertise, and technology transfer (training, scholarships, and other social projects). The Government
                   offers various concessions, Public-Private Partnership (PPP) arrangements, and Build Operate and
@@ -127,7 +127,7 @@
               <div class="left-layer"></div>
               <div class="right-layer"></div>
 
-              <h3><a href="foreign_invest.php">Swaziland</a></h3>
+              <h3><a href="foreign_invest">Swaziland</a></h3>
               <div class="text">Swaziland’s natural resources include coal, asbestos, diamond and gold deposits, talc,
                 and quarry stones. We are deeply connected with the royal family and guarantee fair terms for any
                 prospective investor who is willing to come and do an on-site assessment. These connections
@@ -142,7 +142,7 @@
               <div class="left-layer"></div>
               <div class="right-layer"></div>
 
-              <h3><a href="foreign_invest.php"> Minerals and investments in Congo DR
+              <h3><a href="foreign_invest"> Minerals and investments in Congo DR
                 </a></h3>
               <div class="text">The DRC, despite being less developed, has significant mineral resources, including
                 cobalt, copper, diamonds, coltan, and tin. It supplies a large portion of the world's cobalt (48%) and
@@ -156,7 +156,7 @@
               <div class="left-layer"></div>
               <div class="right-layer"></div>
 
-              <h3><a href="foreign_invest.php"> Natural Resources of Equatorial Guinea
+              <h3><a href="foreign_invest"> Natural Resources of Equatorial Guinea
                 </a></h3>
               <div class="text">Equatorial Guinea has significant oil production and reserves, extensive forests, and a
                 robust fishing industry. Its other natural resources include petroleum, natural gas, gold, bauxite,
@@ -170,7 +170,7 @@
               <div class="left-layer"></div>
               <div class="right-layer"></div>
 
-              <h3><a href="foreign_invest.php">Botswana</a></h3>
+              <h3><a href="foreign_invest">Botswana</a></h3>
               <div class="text">he main driver of Botswana's mining sector growth and earnings has been diamonds,
                 although there have been smaller contributions from base metals (copper, nickel, and cobalt), coal, soda
                 ash, and gold. The country's stable political environment and transparent .
@@ -186,7 +186,7 @@
               <div class="left-layer"></div>
               <div class="right-layer"></div>
 
-              <h3><a href="foreign_invest.php">Namibia
+              <h3><a href="foreign_invest">Namibia
                 </a></h3>
               <div class="text">Namibia offers diverse investment opportunities in the Affordable Housing Sector,
                 Agriculture Sector, Energy Sector, Logistics and Infrastructure, Manufacturing Sector, and Tourism

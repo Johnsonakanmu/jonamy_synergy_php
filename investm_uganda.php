@@ -11,14 +11,14 @@
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-            <h3><a href="african_investm.php" id="agro">Agro-processing</a></h3>
+            <h3><a href="african_investm" id="agro">Agro-processing</a></h3>
             <div class="icon-box">
               <span class="icon flaticon-analysis"></span>
             </div>
             <div class="text"> Establishment and maintenance of the integrated agricultural produce, marketing and
               value-addition facilities for the benefit of small-scale farmers and producers as well as consumers
               .</div>
-            <div class="more-link"><a class="read-more" href="african_investm.php"><span
+            <div class="more-link"><a class="read-more" href="african_investm"><span
                   class="arrow fa fa-angle-right"></span> Read more</a></div>
           </div>
         </div>
@@ -26,7 +26,7 @@
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-            <h3><a href="african_investm.php"> Building and Construction
+            <h3><a href="african_investm"> Building and Construction
               </a></h3>
             <div class="icon-box">
               <span class="icon flaticon-sports-and-competition"></span>
@@ -35,7 +35,7 @@
               the government. Approximately 500 housing units will be constructed for direct purchase....
 
             </div>
-            <div class="more-link"><a class="read-more" href="african_investm.php"><span
+            <div class="more-link"><a class="read-more" href="african_investm"><span
                   class="arrow fa fa-angle-right"></span> Read more</a></div>
           </div>
         </div>
@@ -43,7 +43,7 @@
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-            <h3><a href="african_investm.php">Transport (Aviation)
+            <h3><a href="african_investm">Transport (Aviation)
               </a></h3>
             <div class="icon-box">
               <span class="icon flaticon-graph"></span>
@@ -51,7 +51,7 @@
             <div class="text">Upgrade to an international airport construction of the runway and associated taxiways.
               This project aims to enhance the airport's capacity to handle increased international...
             </div>
-            <div class="more-link"><a class="read-more" href="african_investm.php"><span
+            <div class="more-link"><a class="read-more" href="african_investm"><span
                   class="arrow fa fa-angle-right"></span> Read more</a></div>
           </div>
         </div>
@@ -59,7 +59,7 @@
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-            <h3><a href="african_investm.php">Oil and Gas (Oil distribution)
+            <h3><a href="african_investm">Oil and Gas (Oil distribution)
               </a></h3>
             <div class="icon-box">
               <span class="icon flaticon-graph"></span>
@@ -68,7 +68,7 @@
               Kampala (the capital city). This project will facilitate the efficient transport of oil, ensuring a steady
               supply to the terminal.
             </div>
-            <div class="more-link"><a class="read-more" href="african_investm.php"><span
+            <div class="more-link"><a class="read-more" href="african_investm"><span
                   class="arrow fa fa-angle-right"></span> Read more</a></div>
           </div>
         </div>
@@ -76,7 +76,7 @@
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
           <div class="inner-box wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-            <h3><a href="african_investm.php">Information Communication Technology (ICT)
+            <h3><a href="african_investm">Information Communication Technology (ICT)
 
               </a></h3>
             <div class="icon-box">
@@ -86,7 +86,7 @@
               national data center infrastructure including the installation of integrated infrastructure service.
 
             </div>
-            <div class="more-link"><a class="read-more" href="african_investm.php"><span
+            <div class="more-link"><a class="read-more" href="african_investm"><span
                   class="arrow fa fa-angle-right"></span> Read more</a></div>
           </div>
         </div>

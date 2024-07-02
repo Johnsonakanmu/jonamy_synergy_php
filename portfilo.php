@@ -59,7 +59,7 @@
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic_6.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
@@ -67,7 +67,7 @@
                 </div>
               </div>
               <div class="lower-content">
-                <h3><a href="portfolio.php">NWAUKOR ONOCHIE JUDE</a></h3>
+                <h3><a href="portfolio">NWAUKOR ONOCHIE JUDE</a></h3>
                 <div class="designation">FOUNDER</div>
               </div>
             </div>
@@ -81,7 +81,7 @@
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic_1.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
@@ -89,9 +89,9 @@
                 </div>
               </div>
               <div class="lower-content">
-                <h3><a href="portfolio.php">MR PIERO ALLAFRANCHINO
+                <h3><a href="portfolio">MR PIERO ALLAFRANCHINO
                   </a></h3>
-                <div class="designation">EXECUTIVE DIRECTOR CONSTRUCTION
+                <div class="designation"> MANAGING DIRECTOR
                 </div>
               </div>
             </div>
@@ -105,7 +105,7 @@
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic_2.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
@@ -113,7 +113,7 @@
                 </div>
               </div>
               <div class="lower-content">
-                <h3><a href="portfolio.php">MRS NWAUKOR NKEM JANET
+                <h3><a href="portfolio">MRS NWAUKOR NKEM JANET
                   </a></h3>
                 <div class="designation">EXECUTIVE DIRECTOR FiNANCE</div>
               </div>
@@ -122,21 +122,21 @@
 
           <div class="gallery-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box">
-              <div class="image">
+              <!-- <div class="image">
                 <img src="images/gallery/pic_latest.jpg" alt="" />
-                <!--Overlay Box-->
+               
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic_latest.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
               <div class="lower-content">
-                <h3><a href="portfolio.php">NWAUKOR CHUKWUNONSO MITCHEL
+                <h3><a href="portfolio">NWAUKOR CHUKWUNONSO MITCHEL
                   </a></h3>
                 <div class="designation">DIRECTOR</div>
               </div>
@@ -146,21 +146,21 @@
           <!--Gallery Block-->
           <div class="gallery-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box">
-              <div class="image">
+              <!-- <div class="image">
                 <img src="images/gallery/pic_latest_2.jpg" alt="" />
-                <!--Overlay Box-->
+                
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic_latest_2.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
               <div class="lower-content">
-                <h3><a href="portfolio.php"> NWAUKOR CHUKWUDI MICHAEL
+                <h3><a href="portfolio"> NWAUKOR CHUKWUDI MICHAEL
                   </a></h3>
                 <div class="designation">DIRECTOR</div>
               </div>
@@ -170,23 +170,23 @@
           <!--Gallery Block-->
           <div class="gallery-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box">
-              <div class="image">
+              <!-- <div class="image">
                 <img src="images/gallery/pic-5.jpg" alt="" />
-                <!--Overlay Box-->
+               
                 <div class="overlay-box">
                   <div class="overlay-inner">
                     <div class="content">
-                      <a href="portfolio.php" class="link"><span class="icon fa fa-link"></span></a>
+                      <a href="portfolio" class="link"><span class="icon fa fa-link"></span></a>
                       <a href="images/gallery/pic-5.jpg" data-fancybox="gallery-images-1" data-caption=""
                         class="link"><span class="icon fa fa-search"></span></a>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> -->
               <div class="lower-content">
-                <h3><a href="portfolio.php">NWAUKOR TOCHUKWU JOSHUA
+                <h3><a href="portfolio">NWAUKOR TOCHUKWU JOSHUA
                   </a></h3>
-                <div class="designation">DIRECTOR
+                <div class="designation">DIRECTOR ICT
 
                 </div>
               </div>

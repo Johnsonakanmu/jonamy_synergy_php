@@ -27,7 +27,7 @@
       <div class="auto-container">
         <h1>About Jonamjo Synergy</h1>
         <ul class="page-breadcrumb">
-          <li><a href="index.php">home</a></li>
+          <li><a href="index">home</a></li>
           <!-- <li><a href="services-one.html">Our Services</a></li> -->
           <li>About Us</li>
         </ul>
@@ -47,24 +47,24 @@
               <!--Blog Category Widget-->
               <div class="sidebar-widget sidebar-blog-category">
                 <ul class="blog-cat">
-                  <li class="active"><a href="about.php">Lithium</a></li>
-                  <li><a href="about.php">Chalcopyrite</a></li>
-                  <li><a href="about.php">Crushed Gold Stone</a></li>
-                  <li><a href="about.php">Rhodium</a></li>
-                  <li><a href="about.php">Nickel (A & B)</a></li>
-                  <li><a href="about.php">Plutonium</a></li>
-                  <li><a href="about.php">Chromium</a></li>
-                  <li><a href="about.php">Cobalt</a></li>
-                  <li><a href="about.php">Zircon Sand</a></li>
-                  <li><a href="about.php">Monazite</a></li>
-                  <li><a href="about.php">Rhodium Sand</a></li>
-                  <li><a href="about.php">Magnesium</a></li>
-                  <li><a href="about.php">Gold Rock</a></li>
-                  <li><a href="about.php">Spodumene</a></li>
-                  <li><a href="about.php">Gold River Wash</a></li>
-                  <li><a href="about.php">Palladium</a></li>
-                  <li><a href="about.php">Platinum</a></li>
-                  <li><a href="about.php">Copper</a></li>
+                  <li class="active"><a href="about">Lithium</a></li>
+                  <li><a href="about">Chalcopyrite</a></li>
+                  <li><a href="about">Crushed Gold Stone</a></li>
+                  <li><a href="about">Rhodium</a></li>
+                  <li><a href="about">Nickel (A & B)</a></li>
+                  <li><a href="about">Plutonium</a></li>
+                  <li><a href="about">Chromium</a></li>
+                  <li><a href="about">Cobalt</a></li>
+                  <li><a href="about">Zircon Sand</a></li>
+                  <li><a href="about">Monazite</a></li>
+                  <li><a href="about">Rhodium Sand</a></li>
+                  <li><a href="about">Magnesium</a></li>
+                  <li><a href="about">Gold Rock</a></li>
+                  <li><a href="about">Spodumene</a></li>
+                  <li><a href="about">Gold River Wash</a></li>
+                  <li><a href="about">Palladium</a></li>
+                  <li><a href="about">Platinum</a></li>
+                  <li><a href="about">Copper</a></li>
 
                 </ul>
               </div>
@@ -239,7 +239,7 @@
                           <!--Services Block-->
                           <div class="services-block alternate col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                              <h3><a href="about.php">Achala Ibusa <br> Palm Plantation</a></h3>
+                              <h3><a href="about">Achala Ibusa <br> Palm Plantation</a></h3>
                               <div class="text">Sitting on 40 plots of land, where we process palm products.</div>
                             </div>
 
@@ -248,7 +248,7 @@
 
                           <div class="services-block alternate col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                              <h3><a href="about.php">Ute Ogeje <br> Palm Plantation</a>
+                              <h3><a href="about">Ute Ogeje <br> Palm Plantation</a>
                               </h3>
                               <div class="text">Another significant site in Delta State.</div>
                             </div>
@@ -258,7 +258,7 @@
 
                           <div class="services-block alternate col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                              <h3><a href="about.php">Akwuku Igbo <br> Palm Plantation</a>
+                              <h3><a href="about">Akwuku Igbo <br> Palm Plantation</a>
                               </h3>
 
                               <div class="text">Covering 135 plots of land.</div>

@@ -16,11 +16,9 @@
           <!--Social Box-->
           <ul class="social-box">
             <li class="share">Connect With Us</li>
-            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-            <li><a href="#"><span class="fa fa-vimeo"></span></a></li>
-            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61561471982485"><span class="fa fa-facebook"></span></a></li>
+            <li><a href="https://www.instagram.com/jonamjosynergy212"><span class="fa fa-linkedin"></span></a></li>
+            <li><a href="https://x.com/jonamyo20641?t=Sao7Ib2xw2_wukC5JOdDOQ&s=08"><span class="fa fa-twitter"></span></a></li>
           </ul>
         </div>
       </div>
@@ -33,7 +31,7 @@
       <div class="clearfix">
 
         <div class="pull-left logo-box">
-          <div class="logo "><a href="index.php"><img src="images/head_logo.png" height=" 110px" width="110px"></a>
+          <div class="logo "><a href="index"><img src="images/head_logo.png" height=" 110px" width="110px"></a>
           </div>
         </div>
 
@@ -52,12 +50,12 @@
 
             <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
               <ul class="navigation clearfix">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
-                <li><a href="portfilo.php">Portfolio</a>
+                <li><a href="index">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="portfilo">Portfolio</a>
                 </li>
-                <li><a href="investment.php">Investments</a> </li>
-                <li><a href="contact.php">Contact us</a></li>
+                <li><a href="investment">Investments</a> </li>
+                <li><a href="contact">Contact us</a></li>
               </ul>
             </div>
 
@@ -66,13 +64,13 @@
           <!--Support Box-->
           <div class="support-box">
             <div class="support">For Support Call <span class="icon fa fa-headphones"></span></div>
-            <div class="support-number"> +2347013217232
+            <div class="support-number"> +2348035530984
             </div>
           </div>
 
           <!--Button Box-->
           <div class="button-box">
-            <a href="contact.php" class="theme-btn btn-style-one">Ask For Quote</a>
+            <a href="contact" class="theme-btn btn-style-one">Ask For Quote</a>
           </div>
 
           <!--Search Box Outer-->
@@ -83,7 +81,7 @@
               <ul class="dropdown-menu pull-right search-panel" aria-labelledby="dropdownMenu3">
                 <li class="panel-outer">
                   <div class="form-container">
-                    <form method="post" action="index.php">
+                    <form method="post" action="index">
                       <div class="form-group">
                         <input type="search" name="field-name" value="" placeholder="Search Here" required>
                         <button type="submit" class="search-btn"><span class="fa fa-search"></span></button>
@@ -107,7 +105,7 @@
     <div class="auto-container clearfix">
       <!--Logo-->
       <div class="logo pull-left">
-        <a href="index.php" class="img-responsive"><img src="images/head_logo.png" alt="" title="" height="110px"
+        <a href="index" class="img-responsive"><img src="images/head_logo.png" alt="" title="" height="110px"
             width="110px"></a>
       </div>
 
@@ -124,11 +122,11 @@
 
           <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent1">
             <ul class="navigation clearfix">
-              <li><a href="index.php">Home</a></li>
-              <li><a href="about.php">About</a></li>
-              <li><a href="portfilo.php">Portfolio</a> </li>
-              <li><a href="investment.php">Investments</a></li>
-              <li><a href="contact.php">Contact us</a></li>
+              <li><a href="index">Home</a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="portfilo">Portfolio</a> </li>
+              <li><a href="investment">Investments</a></li>
+              <li><a href="contact">Contact us</a></li>
             </ul>
           </div>
         </nav><!-- Main Menu End-->
