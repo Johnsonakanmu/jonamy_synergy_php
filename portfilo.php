@@ -45,7 +45,7 @@
 
         <!--Sec Title-->
         <div class="sec-title centered">
-          <h2>Teams</h2>
+          <h2 style="margin-top: 30px">Teams</h2>
           <div class="title-text">Unlocking Africa's Wealth, One Investment at a Time</div>
         </div>
         <div class="row clearfix">

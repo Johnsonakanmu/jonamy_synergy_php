@@ -37,7 +37,8 @@
                 the world & delivering
                 ideas for your business</div>
               <div class="link-box">
-                <a href="#" class="theme-btn btn-style-two">learn more</a>
+                <a href="gallary" class="theme-btn btn-style-two">View our Gallery</a>
+             
               </div>
             </div>
           </div>
@@ -52,8 +53,7 @@
                 the world & delivering
                 ideas for your business</div>
               <div class="link-box">
-                <!-- <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
-                  class="theme-btn btn-style-three">Our Servics</a> -->
+                <a href="gallary" class="theme-btn btn-style-two">View our Gallery</a> 
               </div>
             </div>
           </div>
@@ -69,8 +69,7 @@
                 the world & delivering
                 ideas for your business</div>
               <div class="link-box">
-                <!-- <a href="#" class="theme-btn btn-style-two">learn more</a> <a href="#"
-                  class="theme-btn btn-style-three">Our Servics</a> -->
+                <a href="gallary" class="theme-btn btn-style-two">View our Gallery</a> 
               </div>
             </div>
           </div>
@@ -243,6 +242,102 @@
     </section>
     <!--End Fluid Section One-->
 
+    <section class="offer-section">
+      <div class="auto-container">
+        <!--Sec Title-->
+        <div class="sec-title centered">
+          <h2>Men At Works</h2>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
+        </div>
+
+        <div class="row clearfix">
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+        <div class="video-box" style="height: 350px; overflow: hidden;"> <!-- Adjust the height as needed -->
+        <figure class="image" style="margin: 0; height: 100%; display: flex; align-items: center;">
+            <img src="images/stones/stone_3.jpg" alt="" style="width: 100%; height: auto; object-fit: cover;">
+        </figure>
+        <a href="images/videos/video_1.mp4" class="lightbox-image overlay-box">
+            <span class="flaticon-arrow"></span>
+        </a>
+        </div>
+        </div>
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+        <div class="video-box" style="height: 350px; overflow: hidden;"> <!-- Adjust the height as needed -->
+        <figure class="image" style="margin: 0; height: 100%; display: flex; align-items: center;">
+            <img src="images/videos/video_17.jpg" alt="" style="width: 100%; height: auto; object-fit: cover;">
+        </figure>
+        <a href="images/videos/video_9.mp4" class="lightbox-image overlay-box">
+            <span class="flaticon-arrow"></span>
+        </a>
+        </div>
+         </div>
+
+          <!--Offer Block-->
+          <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+          <div class="video-box" style="height: 350px; overflow: hidden;"> <!-- Adjust the height as needed -->
+          <figure class="image" style="margin: 0; height: 100%; display: flex; align-items: center;">
+            <img src="images/stones/stone_6.jpg" alt="" style="width: 100%; height: auto; object-fit: cover;">
+            </figure>
+            <a href="images/videos/video_8.mp4" class="lightbox-image overlay-box">
+            <span class="flaticon-arrow"></span>
+            </a>
+          </div>
+          </div>
+
+        </div>
+        <div class="button-box">
+            <a href="gallary" class="theme-btn btn-style-one">View More Videos</a>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+
+
+    <section class="offer-section">
+      <div class="auto-container">
+        <!--Sec Title-->
+        <div class="sec-title centered">
+          <h2>Types of Stones We Offer</h2>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
+        </div>
+
+        <div class="row clearfix">
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+        <div class="image-column"  style="background-image:url(images/stones/stone_4.jpg); height: 350px; overflow: hidden;">
+          <figure class="image-box"><img src="images/stones/stone_4.jpg" alt=""></figure>
+        </div>
+        </div>
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+        <div class="image-column"  style="background-image:url(images/stones/stone_1.); height: 350px; overflow: hidden;">
+          <figure class="image-box"><img src="images/stones/stone_1.jpg" alt=""></figure>
+        </div>
+         </div>
+
+          <!--Offer Block-->
+          <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+          <div class="image-column"  style="background-image:url(images/stones/st_2.); height: 350px; overflow: hidden;">
+          <figure class="image-box"><img src="images/stones/st_2.jpg" alt=""></figure>
+        </div>
+          </div>
+
+        </div>
+        <div class="button-box">
+            <a href="gallary" class="theme-btn btn-style-one">View More Stones</a>
+        </div>
+        </div>
+        
+      </div>
+    </section>
+
     <!--Offer Section-->
     <section class="offer-section">
       <div class="auto-container">
@@ -257,9 +352,9 @@
           <!--Offer Block-->
           <div class="offer-block col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-              <div class="image">
-                <a href="about"><img src="images/stones/g_2.jpg" height="400px" /></a>
-              </div>
+            <div class="image-column"  style="background-image:url(images/stones/stone_4.jpg); height: 280px; overflow: hidden;">
+          <figure class="image-box"><img src="images/stones/stone_4.jpg" alt=""></figure>
+        </div>
               <div class=" lower-content">
                 <h3><a href="about">Minerals & Precious Stones</a></h3>
                 <div class="text">We offer a variety of minerals and precious stones including lithium, chalcopyrite,
@@ -269,7 +364,7 @@
                   aerospace industries. Our precious stones like gold, palladium, and platinum are not only valued for
                   their beauty and use in jewelry but also for their significant roles in financial markets and various
                   high-tech industries.</div>
-                <a class="read-more" href="about"><span class="fa fa-angle-right"></span> Read
+                <a class="read-more" href="about"><span class="fa fa-angle-right"></span> Video More Detail
 
               </div>
             </div>
@@ -398,13 +493,7 @@
                   </div>
                 </div>
                 <!--Image Column-->
-                <div class="image-column col-lg-5 col-md-5 col-sm-12">
-                  <div class="inner-column">
-                    <div class="image">
-                      <img src="images/resource/author-1.jpg" alt="" />
-                    </div>
-                  </div>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -416,21 +505,15 @@
                 <!--Content Column-->
                 <div class="content-column col-lg-7 col-md-7 col-sm-12">
                   <div class="inner-column">
-                    <div class="text">Dealing with this team for my gemstone purchases has been a fantastic
-                      experience.
-                      Their transparency in the trade process and the authenticity of their minerals have made them my
-                      go-to source. Trustworthy and reliable!.</div>
+                    <div class="text">I’ve collaborated with Jonamjo Mining Company on multiple mineral sourcing projects, and their 
+                      expertise in the field is exceptional. They have access to some of the rarest minerals, and their 
+                      knowledge of market trends is second to none. Our partnership has helped us deliver high-quality 
+                      materials to our clients while keeping costs under control.</div>
                     <div class="author">Camron White</div>
                   </div>
                 </div>
                 <!--Image Column-->
-                <div class="image-column col-lg-5 col-md-5 col-sm-12">
-                  <div class="inner-column">
-                    <div class="image">
-                      <img src="images/resource/author-1.jpg" alt="" />
-                    </div>
-                  </div>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -449,13 +532,90 @@
                   </div>
                 </div>
                 <!--Image Column-->
-                <div class="image-column col-lg-5 col-md-5 col-sm-12">
+                
+              </div>
+            </div>
+          </div>
+
+
+          <div class="testimonial-block-two">
+            <div class="inner-box">
+              <div class="row clearfix">
+                <!--Content Column-->
+                <div class="content-column col-lg-7 col-md-7 col-sm-12">
                   <div class="inner-column">
-                    <div class="image">
-                      <img src="images/resource/author-1.jpg" alt="" />
-                    </div>
+                    <div class="text">Working with Jonamjo Mining Company has been a game-changer for my business. Their range 
+                      of precious stones is unmatched in both quality and variety. Every gemstone I've sourced through 
+                      them has been flawless, making my designs stand out even more. Their customer service is fantastic, 
+                      and I know I can always rely on them for my high-end collections.</div>
+                    <div class="author">Jewelry Designer</div>
                   </div>
                 </div>
+                <!--Image Column-->
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-block-two">
+            <div class="inner-box">
+              <div class="row clearfix">
+                <!--Content Column-->
+                <div class="content-column col-lg-7 col-md-7 col-sm-12">
+                  <div class="inner-column">
+                    <div class="text">
+                    I've been collecting rare gems for years, and Jonamjo Mining Company is my go-to source. Their collection is
+                     always carefully curated, and the quality of their stones is impeccable. From rare diamonds to unique 
+                     precious stones, every piece I've acquired has exceeded my expectations. I trust their integrity and 
+                     commitment to authenticity
+                    </div>
+                    <div class="author">Shola Bisola</div>
+                  </div>
+                </div>
+                <!--Image Column-->
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-block-two">
+            <div class="inner-box">
+              <div class="row clearfix">
+                <!--Content Column-->
+                <div class="content-column col-lg-7 col-md-7 col-sm-12">
+                  <div class="inner-column">
+                    <div class="text">
+                    For industrial applications, reliability and quality are critical, and Jonamjo Mining Company has consistently 
+                    delivered both. Their minerals have enhanced our product offerings, and their responsiveness to our needs is 
+                    impressive. We appreciate their transparency throughout the supply chain, ensuring that we get the best value 
+                    on every order
+                    </div>
+                    <div class="author">Johnson Isa</div>
+                  </div>
+                </div>
+                <!--Image Column-->
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="testimonial-block-two">
+            <div class="inner-box">
+              <div class="row clearfix">
+                <!--Content Column-->
+                <div class="content-column col-lg-7 col-md-7 col-sm-12">
+                  <div class="inner-column">
+                    <div class="text">
+                    When it comes to sourcing the finest stones for our luxury watches, Jonamjo Mining Company is our 
+                    preferred partner. The precision and care they put into selecting each precious stone guarantees that
+                     our timepieces radiate elegance. Their deep understanding of rare materials has allowed us to innovate
+                      and offer something truly special to our clientele
+                    </div>
+                    <div class="author">Ahmad Audu</div>
+                  </div>
+                </div>
+                <!--Image Column-->
+                
               </div>
             </div>
           </div>
@@ -465,13 +625,15 @@
     </section>
     <!--End Testimonial Section-->
 
+    
+
     <!--Fluid Section Two-->
     <section class="fluid-section-two">
       <div class="outer-container clearfix">
 
         <!--Image Column-->
-        <div class="image-column" style="background-image:url(images/stones/stone_7.jpg);">
-          <figure class="image-box"><img src="images/stones/stone_7.jpg" alt=""></figure>
+        <div class="image-column" style="background-image:url(images/stones/stone_7.jpg); ">
+          <figure class="image-box"><img src="images/stones/stone_7.jpg" style="" alt=""></figure>
         </div>
 
         <!--Content Column-->
@@ -553,29 +715,6 @@
                 </div>
               </div>
 
-              <!--News Block-->
-              <!-- <div class="news-block">
-                <div class="inner-box">
-                  <ul class="post-info">
-                    <li>august 25, 2018</li>
-                    <li>finance</li>
-                  </ul>
-                  <h3><a href="#">Ipsum dolor sit amet adipisicing elit, dolore magns aliqua enim </a>
-                  </h3>
-                </div>
-              </div> -->
-
-              <!--News Block-->
-              <!-- <div class="news-block">
-                <div class="inner-box">
-                  <ul class="post-info">
-                    <li>SEPtember 23, 2018</li>
-                    <li>business</li>
-                  </ul>
-                  <h3><a href="#">Sunt in culpa qui officia deserunt mollit animed kyest laborum</a>
-                  </h3>
-                </div>
-              </div> -->
 
             </div>
           </div>
@@ -584,7 +723,7 @@
           <div class="image-column col-lg-6 col-md-12 col-sm-12">
             <div class="inner-column wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
               <div class="image">
-                <img src="images/resource/news-1.jpg" alt="" />
+                <img src="images/gallery/map_edit.jpg"  />
               </div>
             </div>
           </div>
@@ -595,7 +734,7 @@
     <!--End News Section-->
 
     <!--Call To Action Section-->
-    <div class="call-to-action-section">
+    <div class="call-to-action-section" style="margin-top: -100px">
       <div class="outer-container">
         <div class="clearfix">
 

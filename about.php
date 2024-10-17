@@ -69,6 +69,8 @@
                 </ul>
               </div>
 
+              
+
               <!--Testimonial Widget-->
               <div class="sidebar-widget testimonial-widget">
                 <div class="inner-widget">
@@ -130,35 +132,13 @@
                 </div>
               </div>
 
-              <!--Brochure Widget-->
-              <div class="sidebar-widget brochure-widget">
-                <div class="widget-content">
-                  <h2>Downloads</h2>
-                  <ul class="brouchers">
-                    <li><a href="images/gallery/resume_pdf.pdf"><span class="icon flaticon-pdf-1"></span>RESUME
-                      </a>
-                    </li>
-                    <li><a href="images/resource/map_edit.jpg"><span class="icon flaticon-doc"></span>TUKUBA MINERAL
-                        MAP </a></li>
-                    <li><a href="images/gallery/kuje_report.pdf"><span class="icon flaticon-doc"></span>KUJE REPORT
-                      </a></li>
-                  </ul>
-                  </ul>
-
-                </div>
-              </div>
-              <!--End Brochure Widget-->
+            
 
               <!--Contact Info Widget-->
               <div class="sidebar-widget contact-info-widget">
-                <div class="inner-content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-telephone"></span>
-                  </div>
-                  <div class="text">Got any Questions? <br> call us today</div>
-                  <div class="number"> +2347013217232</div>
-                  <div class="email">onochienwaukor@gmail.com</div>
-                </div>
+              <div class="image-column"  style="background-image:url(images/stones/stone_5.jpg); height: 550px; overflow: hidden;">
+          <figure class="image-box"><img src="images/stones/stone_5.jpg" alt=""></figure>
+        </div>
               </div>
 
             </aside>
@@ -170,10 +150,10 @@
               <div class="inner-box">
 
                 <div>
+                <h2 style="position:relative; color:#443986; font-size: 36; font-weight:600; line-height:1.2em">
+                Mining Company in Aso</h2>
                   <h2 style="position:relative; color:#443986; font-size: 36; font-weight:600; line-height:1.2em">About
-                    Jonamjo
-                    Synergy
-                  </h2>
+                  Jonamjo Synergy</h2>
                   <div style="position: relative; color:#222222; font-size:19px;line-height:1.4em;margin-top:5px;">
                     Unlocking
                     Africa's
@@ -206,6 +186,26 @@
                       use our deep knowledge of the continent and its investment landscape to advise our clients on
                       profitable sectors within the growing economy, guaranteeing a return on investment.
                     </p>
+
+                    <div class="sidebar-widget brochure-widget">
+                <div class="widget-content">
+                  <h2>Downloads</h2>
+                  <ul class="brouchers">
+                    <li><a href="images/gallery/resume_pdf.pdf"><span class="icon flaticon-pdf-1"></span>
+                     RESUME OF Mr. NWAUKOR ONOCHIE JUDE, THE CEO
+                      </a>
+                    </li>
+                    <li><a href="images/resource/map_edit.jpg"><span class="icon flaticon-doc"></span>
+                    TUKUBA MINERAL DEPOSITE KUJE AREA COUNCIL, FCT - ABUJA MAP </a></li>
+                    <li><a href="images/gallery/kuje_report.pdf"><span class="icon flaticon-doc"></span>
+                    GEOPHYSICAL SURVERY REPORT ON MINERAL RESOURCES AT TUKUBA, KUJE AREA COUNCIL, ABUJA-FCT.
+                      </a></li>
+                  </ul>
+                  </ul>
+
+                </div>
+              </div>
+
                     <h2 style="position:relative; color:#443986; font-size: 36; font-weight:600; line-height:1.2em">
                       Investment Opportunities:
                     </h2>
@@ -288,7 +288,7 @@
                       Video Box-->
                     <div class="video-box">
                       <figure class="image">
-                        <img src="images/stones/stone_7.jpg" alt="">
+                        <img src="images/stones/stone_7.jpg" style="height: 450px; overflow: hidden;" alt="">
                       </figure>
                       <a href="images/videos/video_5.mp4" class="lightbox-image overlay-box"><span
                           class="flaticon-arrow"></span></a>
@@ -298,22 +298,29 @@
                 </div>
                 <div class="lower-content">
 
-
+                        
                   <div class="blocks-outer row clearfix">
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
         </div>
+
+        
+
       </div>
     </div>
 
+
+
+    
+
     <!--Call To Action Section-->
-    <div class="call-to-action-section">
+    <div class="call-to-action-section" style="margin-top: -100px">
       <div class="outer-container">
         <div class="clearfix">
+        <div class="row">
 
           <!--Left Column-->
           <div class="left-column clearfix">

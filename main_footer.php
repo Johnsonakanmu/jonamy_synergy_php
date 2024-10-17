@@ -1,4 +1,4 @@
-<footer class="main-footer">
+<footer class="main-footer" >
   <div class="auto-container">
     <!--Widgets Section-->
     <div class="widgets-section">
@@ -12,7 +12,7 @@
             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
               <div class="footer-widget logo-widget">
                 <div class="logo">
-                  <a href="index"><img src="images/footer_logo_3.jpg" alt="" /></a>
+                  <a href="index"><img src="images/me.png" style="height: 130px; width:200px" alt="" /></a>
                 </div>
                 <div class="text">NWAUKOR ONOCHIE JUDE
                   No 20 A S BADEH Street,NAF Valley Estate Asokoro Abuja FCT
@@ -26,14 +26,22 @@
                 </ul>
                 <!--Social Icon One-->
                 <ul class="social-icon-one">
-                  <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                  <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                  <li><a href="#"><span class="fa fa-vimeo"></span></a></li>
-                  <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                  <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                  <li><a href="https://www.facebook.com/profile.php?id=61561471982485"><span class="fa fa-facebook"></span></a></li>
+                  <li><a href="https://www.instagram.com/jonamjosynergy212"><span class="fa fa-linkedin"></span></a></li>
+                  <li><a href="https://x.com/jonamyo20641?t=Sao7Ib2xw2_wukC5JOdDOQ&s=08"><span class="fa fa-twitter"></span></a></li>
                 </ul>
               </div>
             </div>
+
+            <!--Footer Column-->
+            
+
+          </div>
+        </div>
+
+        <!--Column-->
+        <div class="big-column col-lg-6 col-md-12 col-sm-12">
+          <div class="row clearfix">
 
             <!--Footer Column-->
             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
@@ -47,45 +55,6 @@
                   <li><a href="#">Privacy Policy</a></li>
                   <li><a href="contact">Contact Us</a></li>
                 </ul>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-        <!--Column-->
-        <div class="big-column col-lg-6 col-md-12 col-sm-12">
-          <div class="row clearfix">
-
-            <!--Footer Column-->
-            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-              <div class="footer-widget posts-widget">
-                <h2>Recent Posts</h2>
-
-                <article class="post">
-                  <div class="text"><a href="#">Isolate & Reframe Your Beliefs</a></div>
-                  <ul class="post-date">
-                    <li>By Ken Smith</li>
-                    <li>Sep 25 2018</li>
-                  </ul>
-                </article>
-
-                <article class="post">
-                  <div class="text"><a href="#">Take Action For Your Business</a></div>
-                  <ul class="post-date">
-                    <li>By Thomas</li>
-                    <li>Sep 25 2018</li>
-                  </ul>
-                </article>
-
-                <article class="post">
-                  <div class="text"><a href="#">Improve Your Business Ideas</a></div>
-                  <ul class="post-date">
-                    <li>By Admin</li>
-                    <li>Sep 25 2018</li>
-                  </ul>
-                </article>
-
               </div>
             </div>
 

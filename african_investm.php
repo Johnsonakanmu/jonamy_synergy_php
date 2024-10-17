@@ -57,7 +57,12 @@
           <!--Strategy 1 Block-->
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+              
               <h3><a href="african_investm">Agro-processing</a></h3>
+
+              <div >
+              <figure class="image-box"><img src="images/stones/agro.jpeg" style="width: 350px" alt=""></figure>
+               </div>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Establishment of an integrated agricultural produce, marketing and value-addition park
                 in Uganda</div>
@@ -83,6 +88,9 @@
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <h3><a href="african_investm">Information Communication Technology (ICT)</a></h3>
+              <div>
+              <figure class="image-box"><img src="images/stones/ict.jpeg" style="width: 400px" alt=""></figure>
+               </div>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text"> Government Integrated Data Centre
               </div>
@@ -112,6 +120,9 @@
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <h3><a href="african_investm">Building and Construction</a></h3>
+              <div>
+              <figure class="image-box"><img src="images/stones/build.jpeg" style="width: 400px" alt=""></figure>
+               </div>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Construction of Low-Cost Housing for Bugembe Public Servants</div>
               <h5 style="margin-top: 10px; color: black">Project Location</h5>
@@ -148,6 +159,9 @@
           <div class="strategy-block col-lg-6 col-md-6 col-sm-12">
             <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
               <h3><a href="african_investm">Oil and Gas (Oil distribution)</a></h3>
+              <div>
+              <figure class="image-box"><img src="images/stones/oil.jpeg" style="width: 350px" alt=""></figure>
+               </div>
               <h5 style="margin-top: 10px; color: black">Title of Project</h5>
               <div class="text">Pipeline from Hoima oil fields to storage facilities in Kampala and Jinja</div>
               <h5 style="margin-top: 10px; color: black">Project Location</h5>

@@ -7,8 +7,8 @@
         <!--Top Left-->
         <div class="top-left">
           <ul class="header-info-list">
-            <li><span class="icon fa fa-envelope"></span><strong>Email</strong>onochienwaukor@gmail.com</li>
-            <li><span class="icon fa fa-map-marker "></span><strong>Opening Hour</strong> 9am - 6pm</li>
+            <li><span class="icon fa fa-envelope"></span><strong>Email</strong>info@jonamjosynergynigltd.com</li>
+            <li><span class="icon fa fa-map-marker "></span><strong>Opening Hour:</strong> Open 24 hours</li>
           </ul>
         </div>
         <!--Top Right-->
@@ -55,6 +55,7 @@
                 <li><a href="portfilo">Portfolio</a>
                 </li>
                 <li><a href="investment">Investments</a> </li>
+
                 <li><a href="contact">Contact us</a></li>
               </ul>
             </div>
@@ -126,6 +127,7 @@
               <li><a href="about">About</a></li>
               <li><a href="portfilo">Portfolio</a> </li>
               <li><a href="investment">Investments</a></li>
+
               <li><a href="contact">Contact us</a></li>
             </ul>
           </div>

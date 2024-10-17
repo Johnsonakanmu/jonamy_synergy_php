@@ -10,6 +10,7 @@
 
         <!--Services Block-->
         <div class="services-block col-lg-4 col-md-6 col-sm-12">
+          
           <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
             <h3><a href="african_investm" id="agro">Agro-processing</a></h3>
             <div class="icon-box">
@@ -92,6 +93,10 @@
         </div>
 
       </div>
+
+      <div class="button-box">
+            <a href="african_investm" class="theme-btn btn-style-one">View More</a>
+        </div>
     </div>
   </div>
 </section>
