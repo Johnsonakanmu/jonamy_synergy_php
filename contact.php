@@ -127,7 +127,7 @@
                   </div>
 
                   <div class="form-group">
-                    <button class="theme-btn message-btn" type="submit" name="submitContact">send message</button>
+                    <button class="theme-btn message-btn" type="submit">send message</button>
                   </div>
 
                 </form>

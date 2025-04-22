@@ -12,7 +12,7 @@
             <div class="footer-column col-lg-6 col-md-6 col-sm-12">
               <div class="footer-widget logo-widget">
                 <div class="logo">
-                  <a href="index"><img src="images/me.png" style="height: 130px; width:200px" alt="" /></a>
+                  <a href="index"><img src="images/logohead.png" style="height: 100px; width:100px" alt="" /></a>
                 </div>
                 <div class="text">NWAUKOR ONOCHIE JUDE
                   No 20 A S BADEH Street,NAF Valley Estate Asokoro Abuja FCT
@@ -87,7 +87,7 @@
     <div class="auto-container">
       <div class="row clearfix">
         <div class="column col-md-6 col-sm-12 col-xs-12">
-          <div class="copyright">Copyrights &copy; 2018 Jonamjo Synergy. All Rights Reserved. </div>
+          <div class="copyright">Copyrights &copy; 2025 Jonamjo Synergy. All Rights Reserved. </div>
         </div>
         <div class="column col-md-6 col-sm-12 col-xs-12">
           <ul class="footer-nav">

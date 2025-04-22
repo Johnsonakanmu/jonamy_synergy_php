@@ -364,7 +364,7 @@
                   aerospace industries. Our precious stones like gold, palladium, and platinum are not only valued for
                   their beauty and use in jewelry but also for their significant roles in financial markets and various
                   high-tech industries.</div>
-                <a class="read-more" href="about"><span class="fa fa-angle-right"></span> Video More Detail
+                <a class="read-more" href="gallary"><span class="fa fa-angle-right"></span> Video More Detail
 
               </div>
             </div>

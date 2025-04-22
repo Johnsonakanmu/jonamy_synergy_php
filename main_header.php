@@ -31,7 +31,7 @@
       <div class="clearfix">
 
         <div class="pull-left logo-box">
-          <div class="logo "><a href="index"><img src="images/head_logo.png" height=" 110px" width="110px"></a>
+          <div class="logo "><a href="index"><img src="images/logohead.png" style=" margin-top: -30px " height=" 80px" width="80px"></a>
           </div>
         </div>
 
@@ -106,8 +106,8 @@
     <div class="auto-container clearfix">
       <!--Logo-->
       <div class="logo pull-left">
-        <a href="index" class="img-responsive"><img src="images/head_logo.png" alt="" title="" height="110px"
-            width="110px"></a>
+        <a href="index" class="img-responsive"><img src="images/logohead.png" style="magin-top: -20px" alt="" title="" height="80px"
+            width="80px"></a>
       </div>
 
       <!--Right Col-->
