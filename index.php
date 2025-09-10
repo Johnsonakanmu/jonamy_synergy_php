@@ -242,6 +242,198 @@
     </section>
     <!--End Fluid Section One-->
 
+
+    <section class="offer-section">
+      <div class="auto-container">
+        <!--Sec Title-->
+        <div class="sec-title centered">
+          <h2>NEW ACQUIRED MACHINERY</h2>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
+        </div>
+
+        <div class="row clearfix">
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new1.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+ <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new2.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+ <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new3.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new3.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+         
+
+         <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new4.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new4.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+
+         <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new5.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new5.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+
+         <!--Offer Block-->
+        <div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/new8.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/new8.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+  <!-- Offer Block -->
+<div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/new6.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+
+
+         <!--Offer Block-->
+
+         <!-- Offer Block -->
+<div class="offer-block col-lg-3 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/new7.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+   
+
+        </div>
+        
+        
+      </div>
+    </section>
+
+
+
+
     <section class="offer-section">
       <div class="auto-container">
         <!--Sec Title-->
