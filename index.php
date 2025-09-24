@@ -243,6 +243,140 @@
     <!--End Fluid Section One-->
 
 
+      <!--MD and Lagoas Staff  -->
+
+
+      <section class="offer-section">
+      <div class="auto-container">
+        <!--Sec Title-->
+        <div class="sec-title centered">
+          <h2>MD and Lagos staff on site</h2>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
+        </div>
+
+        <div class="row clearfix">
+
+
+        <!-- Offer Block -->
+<div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/four.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+
+ <!-- Offer Block -->
+<div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/two.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+
+
+         <!--Offer Block-->
+
+         <!-- Offer Block -->
+<div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/three.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+
+
+
+          <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+   <video width="100%" height="100%" style="object-fit: cover;" muted poster="images/videos/four.jpg">
+  <source src="images/videos/one.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/one.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+ <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+   <video width="100%" height="100%" style="object-fit: cover;" muted poster="images/videos/three.jpg">
+  <source src="images/videos/five.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/five.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+ <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/six.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/six.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+        </div>
+        
+        
+      </div>
+    </section>
+
+
+
+      <!--MD and Lagos Staff on Site--->
+
     <section class="offer-section">
       <div class="auto-container">
         <!--Sec Title-->
@@ -468,9 +602,9 @@
         </div>
          </div>
 
-          <!--Offer Block-->
-          <div class="offer-block col-lg-4 col-md-6 col-sm-12">
-          <div class="video-box" style="height: 350px; overflow: hidden;"> <!-- Adjust the height as needed -->
+
+      <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+          <div class="video-box" style="height: 350px; overflow: hidden;">
           <figure class="image" style="margin: 0; height: 100%; display: flex; align-items: center;">
             <img src="images/stones/stone_6.jpg" alt="" style="width: 100%; height: auto; object-fit: cover;">
             </figure>
@@ -479,6 +613,8 @@
             </a>
           </div>
           </div>
+
+
 
         </div>
         <div class="button-box">
@@ -525,10 +661,107 @@
         <div class="button-box">
             <a href="gallary" class="theme-btn btn-style-one">View More Stones</a>
         </div>
-        </div>
+</div>
         
       </div>
     </section>
+
+
+    <section class="off-section">
+<div class="auto-container">
+
+<div class="sec-title centered mt-4">
+          <h2>All trucks are allocated to our coal mining site.</h2>
+          <div class="title-text" style="font-size: 18px">Unlocking Africa's Wealth, One Investment at a Time</div>
+        </div>
+
+        <div class="row clearfix">
+        
+         <!-- Offer Block -->
+<div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="height: 350px; overflow: hidden;">
+    
+    <!-- Image Only -->
+    <img src="images/videos/truck4.jpg" alt="Video Thumbnail" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+    
+  </div>
+</div>
+
+  <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/Truck1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/Truck1.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+    <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/truck3.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/truck3.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+ <!--Offer Block-->
+        <div class="offer-block col-lg-4 col-md-6 col-sm-12">
+  <div class="video-box" style="position: relative; height: 350px; overflow: hidden;">
+    
+    <!-- Video -->
+    <video width="100%" height="100%" style="object-fit: cover;" muted>
+      <source src="images/videos/truck2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Play Icon Overlay -->
+    <a href="images/videos/truck2.mp4" class="overlay-box" 
+       style="position: absolute; top: 50%; left: 50%; 
+              transform: translate(-50%, -50%);
+              width: 150px; height: 150px; color: white;
+              border-radius: 50%; padding: 15px;
+              text-decoration: none;">
+        <span class="flaticon-arrow"></span> <!-- or use a play icon -->
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+    </section>
+
 
     <!--Offer Section-->
     <section class="offer-section">
